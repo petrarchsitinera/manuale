@@ -1,8 +1,8 @@
-title: Università di Siena
-description: Manuale per i compilatori
+title: YOUR TITLE
+description: YOUR DESCRIPTION
 theme: just-the-docs
 
-url: https://github.com/petrarchsitinera/manuale/.github.io
+url: https://petrarchsitinera.github.io/manuale
 
-aux_links:
-  Template Repository: https://github.com/petrarchsitinera/manuale/
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/petrarchsitinera/manuale
