@@ -1,9 +1,14 @@
+---
+title: Home
+layout: home
+---
+
 # Creare, modificare, eliminare _parts_
 Per creare, modificare, eliminare _parts_, accedere alla schermata riassuntiva selezionando la sezione _parts_ nella schermata superiore della scheda:
-> ![](/docs/assets/images/edbrick_partsumma.png)  
+> ![](./assets/images/edbrick_partsumma.png)  
 
 Per creare una nuova _part_, selezionare dal menu a tendina del campo _part_ il nome di quella desiderata e cliccare sul comando _add part_.  
-> ![](/docs/assets/images/edbrick_addpart.png)  
+> ![](./assets/images/edbrick_addpart.png)  
 
 Per modificare una parte già salvata, cliccare sul comando _edit_ accanto alla _part_ da modificare e procedere con le modifiche.    
 > ![](/docs/assets/images/edbrick_edit.png)  
