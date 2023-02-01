@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # Elenco completo di parti e componenti
 # 🚧
 
