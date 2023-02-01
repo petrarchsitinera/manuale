@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: edit
+layout: default
 ---
 
 # Creare, modificare, eliminare _parts_
